@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Juhani_Aho
     - http://fi.wikipedia.org/wiki/Juhani_Aho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13691#Lastuja-I-III
 gutenberg_issued: '2004-10-10'
 gutenberg_type: Text
 identifiers:
